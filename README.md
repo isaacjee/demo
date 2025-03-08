@@ -2,6 +2,6 @@
 
 What is your favorite color?
 
-Your answer:
+Your answer: Green
 
 
